@@ -55,7 +55,7 @@ php order_analytics.php
 
 ```json
 {
-    "total_revenue": 610.00,
+    "total_revenue": 710,
     "best_selling_sku": {
         "sku": "SKU-A123",
         "total_quantity": 5
@@ -95,6 +95,7 @@ Note: Browser may display JSON in one line; formatting is preserved in developer
    - Load data from a database
    - Expose analytics via RESTful API
    - Designed with modularity, readability, and extensibility in mind.
+
 
 
 
