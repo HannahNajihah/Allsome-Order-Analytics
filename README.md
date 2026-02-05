@@ -95,8 +95,3 @@ Note: Browser may display JSON in one line; formatting is preserved in developer
    - Load data from a database
    - Expose analytics via RESTful API
    - Designed with modularity, readability, and extensibility in mind.
-
-
-
-
-
