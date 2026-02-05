@@ -72,6 +72,7 @@ C:\xampp\htdocs\
 Open in browser:
 
 http://localhost/allsome-interview-test/order_analytics.php
+
 Note: Browser may display JSON in one line; formatting is preserved in developer tools or network inspection.
 
 ---
@@ -91,3 +92,4 @@ Note: Browser may display JSON in one line; formatting is preserved in developer
    - Load data from a database
    - Expose analytics via RESTful API
    - Designed with modularity, readability, and extensibility in mind.
+
