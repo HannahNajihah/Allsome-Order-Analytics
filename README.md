@@ -1,5 +1,8 @@
 # Order Analytics – PHP Interview Assignment
 
+Order Analytics – PHP Interview Assignment
+By Hannah Najihah Binti Amran
+
 ## Overview
 This project is a simple order analytics solution built in PHP.
 It processes orders from a CSV file and outputs structured analytics in JSON format,
@@ -95,3 +98,4 @@ Note: Browser may display JSON in one line; formatting is preserved in developer
    - Load data from a database
    - Expose analytics via RESTful API
    - Designed with modularity, readability, and extensibility in mind.
+
